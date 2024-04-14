@@ -18,7 +18,7 @@ graphql-relay==2.0.1
 graphql-server-core==1.2.0
 graphql-ws==0.4.4
 greenlet==1.1.2
-idna==2.10
+idna==3.7
 iniconfig==1.1.1
 itsdangerous==1.1.0
 Jinja2==2.11.2
