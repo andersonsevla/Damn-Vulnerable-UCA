@@ -190,6 +190,8 @@ A big Thank You to the kind people who helped make DVGA better:
 
 DVGA is highly insecure, and as such, should not be deployed on internet facing servers. By default, the application is listening on 127.0.0.1 to avoid misconfigurations.
 
+
+
 DVGA is intentionally flawed and vulnerable, as such, it comes with no warranties. By using DVGA, you take full responsibility for using it.
 
 # License
