@@ -32,3 +32,5 @@ RUN python setup.py
 
 EXPOSE 5013/tcp
 CMD ["python", "app.py"]
+
+#test
